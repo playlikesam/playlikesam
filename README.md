@@ -8,21 +8,19 @@
 
 - 🔭 I’m currently working on [Blended Learning to Overcome Inadequate Infrasturucture](https://github.com/playlikesam/Minor_Project)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
 - 👯 I’m looking to collaborate on [Lakshya](https://github.com/playlikesam/lakshya)
 
-- 👨‍💻 All of my projects are available at [https://saransh-portfolio.vercel.app/](https://saransh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://saransh-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://clubs.internshala.com/member/saranshmishra/?source=header_desktop](https://clubs.internshala.com/member/saranshmishra/?source=header_desktop)
 
-- 💬 Ask me about **Express, Mongo DB**
+- 💬 Ask me about **Mobile, Web Development and Artificial Intelligence**
 
-- 📫 How to reach me **supersaransh2@gmail.com**
+- 📫 Send a mail at **supersaransh2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-lTwLQdwQgZV4M8dymIxkKL3CF1pNBwm/view?usp=sharing](https://drive.google.com/file/d/1-lTwLQdwQgZV4M8dymIxkKL3CF1pNBwm/view?usp=sharing)
 
-- ⚡ Fun fact **You can connect me at Discord for WeekEnd Comedy Shows**
+- ⚡ Fun fact **You can connect me at Discord for WeekEnd Shows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +33,7 @@
 <a href="https://www.codechef.com/users/playlikesam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="playlikesam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/saranshmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saranshmishra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saranshmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saranshmishra" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KNKsvrhrFa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KNKsvrhrFa" height="30" width="40" /></a>
+<a href="[https://discord.gg/tSzcceC5]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KNKsvrhrFa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
